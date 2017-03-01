@@ -145,3 +145,4 @@ config = {
 The full options object gets converted to JSON and will get passed to the phantomjs script as third argument.  
 There are more options concerning the paperSize, header & footer options inside the phantomjs script.
 # node-html-pdf-example
+# phantom-pdf-generation
